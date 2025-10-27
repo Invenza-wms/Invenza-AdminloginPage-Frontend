@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Invenza Frontend (Vite + React + TypeScript + Tailwind)
 
 ## Quick start
@@ -20,3 +21,6 @@ If you want I can:
 - Add form validation.
 - Wire this to your Spring backend (provide endpoints).
 - Implement role-based routing and protected routes using a token simulation.
+=======
+# Invenza-Admin
+>>>>>>> f1e188e90aeb1adb397ff02eb494fdd8c71784e1
